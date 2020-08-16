@@ -1,5 +1,8 @@
 ![Header](https://github.com/bgrvRvshn/bgrvRvshn/blob/master/assets/developer.gif)
 
+<p>Paragraph</p>
+</br>
+</hr>
 ## I'm a Web developer and culturologist
 
 ### Languages and Tools
