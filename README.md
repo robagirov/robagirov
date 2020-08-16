@@ -1,4 +1,4 @@
-![Header](https://github.com/bgrvRvshn/bgrvRvshn/blob/master/assets/developer-1.gif)
+![Header](https://github.com/bgrvRvshn/bgrvRvshn/blob/master/assets/development.gif)
 
 ## I'm a Web developer and culturologist
 
