@@ -35,6 +35,6 @@
 </br>
 
 [<img alt="Twitter" width="44px" src="https://image.flaticon.com/icons/svg/733/733583.svg" />](https://vk.com/bgrvrvshn)&emsp;
-[<img alt="LinkedIn" width="44px" src="https://www.flaticon.com/premium-icon/icons/svg/3256/3256016.svg" />](https://www.linkedin.com/in/bgrvrvshn/)&emsp;
 [<img alt="Instagram" width="44px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />](https://www.instagram.com/fortheemperor3/)&emsp;
+[<img alt="LinkedIn" width="44px" src="https://image.flaticon.com/icons/svg/733/733561.svg" />](https://www.linkedin.com/in/bgrvrvshn/)&emsp;
 [<img alt="Telegram" width="44px" src="https://image.flaticon.com/icons/svg/1532/1532545.svg" />](https://t.me/bgrvRvshn)
