@@ -1,8 +1,5 @@
-![Header](https://github.com/bgrvRvshn/bgrvRvshn/blob/master/assets/developer.gif)
+![Header](https://github.com/bgrvRvshn/bgrvRvshn/blob/master/assets/developer-1.gif)
 
-<p>Paragraph</p>
-</br>
-</hr>
 ## I'm a Web developer and culturologist
 
 ### Languages and Tools
@@ -22,7 +19,7 @@
 
 #### Follow me
 
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-003140?style=for-the-badge&logo=Vkontakte&logoColor=5282b9)](https://vk.com/bgrvrvshn)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-003140?style=for-the-badge&logo=vk&logoColor=5282b9)](https://vk.com/bgrvrvshn)
 [![Telegram](https://img.shields.io/badge/-Telegram-003140?style=for-the-badge&logo=Telegram&logoColor=00979c)](https://t.me/bgrvRvshn)
 [![Instagram](https://img.shields.io/badge/-Instagram-003140?style=for-the-badge&logo=Instagram&logoColor=f041bc)](https://www.instagram.com/fortheemperor3/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-003140?style=for-the-badge&logo=Linkedin&logoColor=3393cb)](https://www.linkedin.com/in/bgrvrvshn/)
