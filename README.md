@@ -3,6 +3,7 @@
 <p>Paragraph</p>
 </br>
 </hr>
+<img src="https://github.com/bgrvRvshn/bgrvRvshn/blob/master/assets/developer.gif" />
 ## I'm a Web developer and culturologist
 
 ### Languages and Tools
