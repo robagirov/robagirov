@@ -2,7 +2,7 @@
 
 </br>
 
-## LANGUAGES AND TOOLS <img src="https://kinginvest.cash/uploads/posts/2019-11/1574889807_gde-kupit-hajp-gif.gif" width="75">
+## LANGUAGES AND TOOLS
 
 </br>
 
