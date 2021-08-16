@@ -13,12 +13,12 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![firebase](https://img.shields.io/badge/-firebase-003140?style=for-the-badge&logo=firebase&logoColor=f6830a)
-![linux](https://img.shields.io/badge/-linux-003140?style=for-the-badge&logo=linux&logoColor=000000)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![FIREBASE](https://img.shields.io/badge/-firebase-003140?style=for-the-badge&logo=firebase&logoColor=f6830a)
+![LINUX](https://img.shields.io/badge/-linux-003140?style=for-the-badge&logo=linux&logoColor=000000)
 
 ## GITHUB ACTIVITY <img src="https://i.gifer.com/origin/63/63dc30909383c81160bdae062ce7ec82_w200.gif" width="75">
 
