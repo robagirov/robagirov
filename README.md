@@ -31,4 +31,4 @@
 </br>
 
 [<img alt="LinkedIn" width="44px" src="https://user-images.githubusercontent.com/43148270/147075697-c5bfbb71-c7d4-4124-a64c-03476e5cecb7.png" />](https://www.linkedin.com/in/bgrvrvshn/)&emsp;
-[<img alt="Telegram" width="44px" src="https://user-images.githubusercontent.com/43148270/147075902-79aed362-d729-4350-8a5c-ae619c3a07d7.png" />](https://t.me/bgrvRvshn)
+[<img alt="Telegram" width="44px" src="https://user-images.githubusercontent.com/43148270/147075902-79aed362-d729-4350-8a5c-ae619c3a07d7.png" />](https://t.me/robagirov)
