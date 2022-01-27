@@ -20,12 +20,6 @@
 ![FIREBASE](https://img.shields.io/badge/-firebase-003140?style=for-the-badge&logo=firebase&logoColor=f6830a)
 ![LINUX](https://img.shields.io/badge/-linux-003140?style=for-the-badge&logo=linux&logoColor=000000)
 
-## GITHUB ACTIVITY <img src="https://i.gifer.com/origin/63/63dc30909383c81160bdae062ce7ec82_w200.gif" width="75">
-
-</br>
-
-![My stats](https://github-readme-stats.vercel.app/api?username=bgrvRvshn&show_icons=true&theme=dark&count_private=true)
-
 ## GET IN TOUCH <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="75">
 
 </br>
