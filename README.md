@@ -1,4 +1,4 @@
-# Hi there 👋 I'm a Web developer <img src="https://avatars.mds.yandex.net/get-zen_doc/1909279/pub_5e59184675df9a72abaca440_5e591bdf69807744879b9a69/orig" width="75">
+# Hi there 👋 I'm a Web developer
 
 </br>
 
